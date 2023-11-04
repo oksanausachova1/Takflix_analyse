@@ -1,7 +1,9 @@
 Description
+
 We conducted a data analysis of the popular streaming platform Takflix. Our goal was to understand how users interact with the platform, identify loyal customers, calculate loyalty coefficients and gift coefficients. Additionally, we extracted the first three movies that customers watch for the first and second time in English.
 
 Objective
+
 Our main objective in this project was to thoroughly investigate the data from the Takflix platform and address the following questions:
 
 Data Validation: We ensured that all necessary data was present and ready for further analysis.
